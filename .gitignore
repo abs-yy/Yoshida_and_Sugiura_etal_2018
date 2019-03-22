@@ -1,4 +1,6 @@
-input_data/
 .DS_Store
 .Rhistory
 *~
+*xlsx
+*keynote
+*R
